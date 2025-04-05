@@ -1,4 +1,1 @@
-This Is My Terminal Browser
-The Name Is Coriun-Browser
-
-Dependencies : Python 
+Welcome to the my Repository this Is 100% python browser
