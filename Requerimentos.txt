@@ -1,0 +1,5 @@
+list of reqeuriments:
+
+cloudscraper
+beautifulsoup4
+colorama
